@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656600496 source:c:\users\wyclif\onedrive\desktop\c code\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
